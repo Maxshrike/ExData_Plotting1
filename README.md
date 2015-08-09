@@ -57,11 +57,16 @@ functions.
 
 * Note that in this dataset missing values are coded as `?`.
 
-# For MY assignment - PLEASE Note: Loading the data
+# For MY assignment:
 
-Download the data indicated above (the unzipped .txt) to your working directory
+Please note these instructions for loading data, running the code and obtaining the result:
+
+Download the data indicated above (the unzipped .txt) to your working directory.
+
 Run the 4 separate R codes (that I wrote when doing this assignment, namely plot1.R, plot2.R, plot3.R, plot4.R)
+
 Four separate .png files (namely plot1.png, plot2.png, plot3.png, plot4.png) will be created in your working directory.  
+
 These png plots represent the output of the .R code and indicate completion of the assignment. 
 
 ## Making Plots
